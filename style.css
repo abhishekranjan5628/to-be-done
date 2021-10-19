@@ -1,0 +1,12 @@
+#ulTasks li.done {
+  color: #6c757d;
+  text-decoration: line-through;
+}
+h1{
+  font-size: 35px;
+ 
+  padding-top: 40px;
+}
+.b{
+  font-size: 30px;
+}
